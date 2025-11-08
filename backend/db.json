@@ -37,6 +37,9 @@
       "status": "pending",
       "priority": false,
       "notes": [],
+      "statusHistory": [
+        { "status": "pending", "changedAt": "2025-11-03T10:20:00Z", "author": "system" }
+      ],
       "createdAt": "2025-11-03T10:20:00Z",
       "updatedAt": "2025-11-03T10:20:00Z"
     }
@@ -46,6 +49,7 @@
     {
       "id": 1,
       "creditTypeId": "auto",
+      "jobId": "dev",
       "amount": 120000,
       "months": 48,
       "annualRate": 4.2,
